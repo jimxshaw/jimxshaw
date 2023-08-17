@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&width=600&lines=Go%2C+Python%2C+Kubernetes%2C+ReactJS%2C+AWS;Software+Craftsman%2C+Technology+Enthusiast%2C+Amateur+Mycologist;8%2B+years+of+professional+coding+experience)](https://git.io/typing-svg)
 
 <!--
 **jimxshaw/jimxshaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

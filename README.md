@@ -1,4 +1,4 @@
-<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&center=true&width=600&lines=Go%2C+Python%2C+Docker%2C+Kubernetes%2C+AWS;Senior+Software+Engineer%2C+Technology+Enthusiast;8%2B+years+of+professional+coding+experience" alt="Typing SVG" /></a> </p>
+<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&center=true&width=600&lines=Go%2C+Python%2C+Docker%2C+Kubernetes%2C+AWS;Senior+Software+Engineer%2C+Technology+Enthusiast;9%2B+years+of+professional+coding+experience" alt="Typing SVG" /></a> </p>
 
 
 

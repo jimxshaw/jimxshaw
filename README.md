@@ -94,6 +94,6 @@ My sweet spot is the intersection of **software engineering, information securit
 
 ---
 
-✨ Personal
+## ✨ Personal
 
 I love distancing running and hiking. Summiting Mount Kilimanjaro is on my bucketlist!

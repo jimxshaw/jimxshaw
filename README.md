@@ -12,7 +12,7 @@ I'm a software engineer with 9+ years of industry experience who decided to retu
 
 My career has taken me through the global cybersecurity group at **JPMorgan Chase & Co.**, a full monolith-to-microservices rebuild at **Lone Wolf Technologies**, a seed-stage startup called **Upventur** that was acquired within 10 months and a cybersecurity internship at **Thorlabs** where I reported directly to the CISO.
 
-Most recently, alongside my coursework, I'm a Fellow in the Break Through Tech AI Program, which is a selective, paid, industry-backed fellowship where I'm completing an ML specialization in Agentic AI and working on real-world, industry-sponsored ML projects through their AI Studio program.  
+Most recently, alongside my coursework, I'm a Fellow in the **Break Through Tech AI Program**, which is a selective, paid, industry-backed fellowship where I'm completing an ML specialization in Agentic AI and working on real-world, industry-sponsored ML projects through their AI Studio program.  
 
 My sweet spot is the intersection of **software engineering, information security and machine learning**, building systems that are fast, scalable and hard to break into.
 

@@ -91,3 +91,9 @@ My sweet spot is the intersection of **software engineering, information securit
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
+---
+
+✨ Personal
+
+I love distancing running and hiking. Summiting Mount Kilimanjaro is on my bucketlist!
